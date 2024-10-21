@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LastProject</string>
+    <string-array name="allergy_options">
+        <item>Peanuts</item>
+        <item>Gluten</item>
+        <item>Sesame seeds</item>
+        <item>Almonds</item>
+        <item>Almond</item>
+        <item>Green Pea</item>
+        <item>Bean</item>
+        <item>Soy</item>
+        <item>Beans</item>
+        <item>Tree Nuts</item>
+        <item>Squid</item>
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Soy</item>
+        <item>Gardenia</item>
+        <item>Milk Powder</item>
+        <item>Wheat</item>
+        <item>Wheat Flour</item>
+        <item>Fish</item>
+        <item>Coconut</item>
+        <item>Shellfish</item>
+    </string-array>
+</resources>

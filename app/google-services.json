@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "370393023309",
+    "firebase_url": "https://allergy-72c2e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "allergy-72c2e",
+    "storage_bucket": "allergy-72c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370393023309:android:419e1aa603611e9d5ded04",
+        "android_client_info": {
+          "package_name": "com.lastproject.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGw9v-KIz9J_3Sl5jyx7KWDP9Q1rT5Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LastProject" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorOnPrimary">@android:color/white</item> <!-- สีข้อความบนพื้นหลังสีหลัก -->
+        <item name="colorOnBackground">@android:color/black</item> <!-- สีข้อความบนพื้นหลัง -->
+    </style>
+
+
+    <style name="Theme.LastProject" parent="Base.Theme.LastProject" />
+
+</resources>
